@@ -1,7 +1,7 @@
 package Lesson5;
 
 public class MyMainClass<symbol> {
-    public static void main(String[] args){
+   // public static void main(String[] args){
     //public static void main(String[] args) {
         //String myName = "My name is Rita";
         //printBeautifully(myName, '$');
@@ -29,25 +29,25 @@ public class MyMainClass<symbol> {
 
 
 
-        String myString;
-        myString = combinedString("Belka", "Luche Strelki", '-');
-        printMyString(myString);
-    }
-
-        public static String combinedString(String a, String b, char c){
-            String myCombinedString;
-           myCombinedString = a + c + b;
-           return myCombinedString;
-
-
-        }
-
-        public static void printMyString(String myString){
-            System.out.println(myString);
-        }
-     }
-
-
+//        String myString;
+//        myString = combinedString("Belka", "Luche Strelki", '-');
+//        printMyString(myString);
+//    }
+//
+//        public static String combinedString(String a, String b, char c){
+//            String myCombinedString;
+//           myCombinedString = a + c + b;
+//           return myCombinedString;
+//
+//
+//        }
+//
+//        public static void printMyString(String myString){
+//            System.out.println(myString);
+//        }
+ }
+//
+//
 
 
 
